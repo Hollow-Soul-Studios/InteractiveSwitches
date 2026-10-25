@@ -1,8 +1,8 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ''
-labels: ''
+title: '[Feature] '
+labels: 'enhancement'
 assignees: ''
 
 ---
@@ -15,6 +15,11 @@ A clear and concise description of what you want to happen.
 
 **Describe alternatives you've considered**
 A clear and concise description of any alternative solutions or features you've considered.
+
+**Version / Engine**
+ - Interactive Switches version: v1.0 (prior to UE 5.8) / v2.0 (UE 5.8, network replicated)
+ - Unreal Engine version:
+ - Does this feature relate to multiplayer / network replication? Yes / No
 
 **Additional context**
 Add any other context or screenshots about the feature request here.
